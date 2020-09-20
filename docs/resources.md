@@ -9,7 +9,7 @@ order: 100
 
 code golf
 
-: An approach to problem-solving (usually, but not always for the purpose of recreation) in programming in which the quality of a solution---assuming it satisfies the functional requirements---is assessed almost entirely by code brevity, rather than by runtime efficiency, code clarity, etc.
+: An approach to problem-solving in programming in which the quality of a solution---assuming it satisfies the functional requirements---is assessed almost entirely by code brevity, rather than by runtime efficiency, code clarity, etc. Most (but not all) of those who employ this approach do so as recreation, or for mental exercise.
 
 minimum-threshold programming test
 

@@ -7,7 +7,7 @@ order: 0
 
 ## Overview
 
-In its simplest form, Fizz Buzz is a counting and division game for multiple players. It originated as a game for children, to help them understand the concept of divisibility, and practice division.[\[1\]](resources.md#fizz-buzz-wikipedia)
+In its simplest form, Fizz Buzz is an arithmetic game for multiple players. It originated as a game for children, to help them understand the concept of divisibility, and practice division.[\[1\]](resources.md#fizz-buzz-wikipedia)
 
 In the last couple of decades, Fizz Buzz has also become widely used as a _minimum-threshold programming test_: A problem assigned to candidates for programming jobs, a successful solution to which means very little, but failure to solve typically means the (unsuccessful) end of an interview.
 
