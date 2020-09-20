@@ -2,13 +2,14 @@
 title: Resources
 description: "Glossary and links to additional information"
 menu: Resources
+order: 100
 ---
 
 ## Glossary
 
 code golf
 
-: An approach to problem-solving in programming in which the quality of a solution---assuming it satisfies the functional requirements---is assessed almost entirely by code brevity, rather than by runtime efficiency, code clarity, etc.
+: An approach to problem-solving (usually, but not always for the purpose of recreation) in programming in which the quality of a solution---assuming it satisfies the functional requirements---is assessed almost entirely by code brevity, rather than by runtime efficiency, code clarity, etc.
 
 minimum-threshold programming test
 

@@ -1,18 +1,23 @@
 ---
 title: Introduction
-description: "What is FizzBuzz, and what is it used for?"
+description: "What is it, and what is it used for?"
 menu: Introduction
+order: 0
 ---
 
 ## Overview
 
-In its simplest form, Fizz Buzz is a counting and division game for multiple players. It originated as a game for children, to help them understand (and practice) division---and especially computing the remainder left after division.[\[1\]](resources.md#fizz-buzz-wikipedia)
+In its simplest form, Fizz Buzz is a counting and division game for multiple players. It originated as a game for children, to help them understand the concept of divisibility, and practice division.[\[1\]](resources.md#fizz-buzz-wikipedia)
 
-In the last couple of decades, it has become widely used as a _minimum-threshold programming test_: A problem assigned to candidates for programming jobs, a successful solution to which means very little, but failure to solve is typically seen as failure to meet the minimum programming skill threshold for further consideration.
+In the last couple of decades, Fizz Buzz has also become widely used as a _minimum-threshold programming test_: A problem assigned to candidates for programming jobs, a successful solution to which means very little, but failure to solve typically means the (unsuccessful) end of an interview.
 
 ## Game
 
-As a game, FizzBuzz proceeds this way:
+### Objective
+
+FizzBuzz is a cooperative game, in that the goal for all players is to count as high as possible during a round. The count can only increase as long as each player, in turn, gives the correct response.
+
+### Play
 
 1. Players sit or stand in a circle.
 
@@ -40,9 +45,9 @@ As a game, FizzBuzz proceeds this way:
 
 [^ending-condition]: The game might end after some set amount of time, or when the count reaches at least some target value---or simply when the participants lose interest.
 
-FizzBuzz is a cooperative game in the sense that the shared goal for all players is to count as high as possible during a round.
-
 ## Program
+
+### Statement
 
 The FizzBuzz programming problem is usually stated as something along these lines:
 
@@ -56,4 +61,6 @@ The FizzBuzz programming problem is usually stated as something along these line
 > 
 > * The current value itself, if it is divisible by _neither_ 3 _nor_ 5.
 
-There are countless example solutions for FizzBuzz, written in dozens of programming languages, available online.[\[2\]](resources.md#fizz-buzz-rosetta) Many of these are _code golf_ solutions: attempts to solve the problem in the fewest number of lines or characters possible. Our interest here is not code golf; instead, we will aim to write a program that can be easily read and understood by other programmers, and one for which automated tests can be writtern and executed.
+### Solution criteria
+
+There are countless example solutions for FizzBuzz, written in dozens of programming languages, available online.[\[2\]](resources.md#fizz-buzz-rosetta) Many available solutions are clearly _code golf_ solutions: attempts to solve the problem in the fewest number of lines or characters possible. Our interest here is not code golf; instead, we will aim to write a program that can be easily read and understood by other programmers, and one for which automated tests can be writtern and executed.
