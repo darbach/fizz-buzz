@@ -13,7 +13,7 @@ code golf
 
 minimum-threshold programming test
 
-: A relatively simple programming test, intended to weed out candidates who don't yet have the skills necessary for an entry-level programming position.
+: A relatively simple programming test, usually given to candidates for entry- or mid-level positions. Successful completion of the test isn't generally interpreted to mean that the candidate is qualified; however, failure to complete the test successfully is usually taken as an indicator that the candidate is unqualified.
 
 ## References
 
