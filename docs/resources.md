@@ -1,6 +1,7 @@
 ---
 title: Resources
 description: "Glossary and links to additional information"
+menu: Resources
 ---
 
 ## Glossary

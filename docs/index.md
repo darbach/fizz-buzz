@@ -1,6 +1,7 @@
 ---
 title: Introduction
 description: "What is FizzBuzz, and what is it used for?"
+menu: Introduction
 ---
 
 ## Overview
