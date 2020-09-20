@@ -6,7 +6,11 @@ menu: Resources
 
 ## Glossary
 
+code golf
+: An approach to problem-solving in programming, in which after satisfying the functional requirements, the next most important criterion is not runtime efficiency or code clarity, but code brevity.
 
+minimum-threshold programming test
+: A relatively simple programming test, intended to weed out candidates who don't yet have the skills necessary for an entry-level programming position.
 
 ## References
 
