@@ -7,7 +7,7 @@ order: 0
 
 ## Overview
 
-In its simplest form, Fizz Buzz is an arithmetic game for multiple players. It originated as a game for children, to help them understand the concept of divisibility, and practice division.[\[1\]](resources.md#fizz-buzz-wikipedia)
+In its simplest form, Fizz Buzz is an arithmetic game for multiple players. It originated as a game for children, to help them understand the concept of divisibility, and practice division.[\[1\]](resources.md#fizz-buzz-wikipedia){:.superscript}
 
 In the last couple of decades, Fizz Buzz has also become widely used as a _minimum-threshold programming test_: A problem assigned to candidates for programming jobs, a successful solution to which means very little, but failure to solve typically means the (unsuccessful) end of an interview.
 
@@ -63,4 +63,4 @@ The FizzBuzz programming problem is usually stated as something along these line
 
 ### Solution criteria
 
-There are countless example solutions for FizzBuzz, written in dozens of programming languages, available online.[\[2\]](resources.md#fizz-buzz-rosetta) Many available solutions are clearly _code golf_ solutions: attempts to solve the problem in the fewest number of lines or characters possible. Our interest here is not code golf; instead, we will aim to write a program that can be easily read and understood by other programmers, and one for which automated tests can be writtern and executed.
+There are countless example solutions for FizzBuzz, written in dozens of programming languages, available online.[\[2\]](resources.md#fizz-buzz-rosetta){:.superscript} Many available solutions are clearly _code golf_ solutions: attempts to solve the problem in the fewest number of lines or characters possible. Our interest here is not code golf; instead, we will aim to write a program that can be easily read and understood by other programmers, and one for which automated tests can be writtern and executed.
